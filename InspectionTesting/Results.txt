@@ -1,0 +1,25 @@
+02/06/2025, 15:28:41 --> PASSED: Found By Date Range in the mode menu 
+02/06/2025, 15:28:41 --> PASSED: Found Latest By Vehicle in the mode menu 
+02/06/2025, 15:28:41 --> PASSED: Found Latest By Inspector in the mode menu 
+02/06/2025, 15:28:46 --> PASSED: Found Selected organization in the Organization menu 
+02/06/2025, 15:28:46 --> PASSED: Found Custom selection in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found Custom range in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found Today in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found Yesterday in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found This week in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found Last week in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found Last 7 days in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found This month in the Organization menu 
+02/06/2025, 15:28:49 --> PASSED: Found Last month in the Organization menu 
+02/06/2025, 15:28:53 --> PASSED: Found Vehicles in the Inspection Filter  
+02/06/2025, 15:28:53 --> PASSED: Found Geozones in the Inspection Filter  
+02/06/2025, 15:28:53 --> PASSED: Found Vehicle Types in the Inspection Filter  
+02/06/2025, 15:28:53 --> PASSED: Found Inspectors in the Inspection Filter  
+02/06/2025, 15:28:53 --> PASSED: Found Has Defects? in the Inspection Filter  
+02/06/2025, 15:28:53 --> PASSED: Found Has DTCs? in the Inspection Filter  
+02/06/2025, 15:28:57 --> PASSED: Found Inspections in the Aggregates 
+02/06/2025, 15:28:57 --> PASSED: Found Inspectors in the Aggregates 
+02/06/2025, 15:28:57 --> PASSED: Found Vehicles in the Aggregates 
+02/06/2025, 15:28:57 --> PASSED: Found Safe in the Aggregates 
+02/06/2025, 15:28:57 --> PASSED: Found Unsafe in the Aggregates 
+02/06/2025, 15:28:57 --> PASSED: Found Has DTC in the Aggregates 
