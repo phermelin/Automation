@@ -98,11 +98,11 @@ with open ('loginInput.txt','r') as file:
 
         match SUser[0]:
             case "Driver":
-                driverAccout.driverTesting(SUser[1],SUser[2],driver)          
+                driverAccout.driverTesting(driver)          
                 print ("Driver")                
             case "Guest":
                 print ("Guest")
-                guestAccount.testing(SUser[1],SUser[2],driver)          
+                guestAccount.testing(driver)          
                 driver.close()
             case "Manager":
                 managerAccount.managerTesting(SUser[1],SUser[2],driver)
@@ -126,6 +126,6 @@ with open ('loginInput.txt','r') as file:
             case _:
                 print("None of the above")
                 driver.close()    
-driver.close()
+#driver.close()
 
         

@@ -1,25 +1,52 @@
-02/06/2025, 15:28:41 --> PASSED: Found By Date Range in the mode menu 
-02/06/2025, 15:28:41 --> PASSED: Found Latest By Vehicle in the mode menu 
-02/06/2025, 15:28:41 --> PASSED: Found Latest By Inspector in the mode menu 
-02/06/2025, 15:28:46 --> PASSED: Found Selected organization in the Organization menu 
-02/06/2025, 15:28:46 --> PASSED: Found Custom selection in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found Custom range in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found Today in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found Yesterday in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found This week in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found Last week in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found Last 7 days in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found This month in the Organization menu 
-02/06/2025, 15:28:49 --> PASSED: Found Last month in the Organization menu 
-02/06/2025, 15:28:53 --> PASSED: Found Vehicles in the Inspection Filter  
-02/06/2025, 15:28:53 --> PASSED: Found Geozones in the Inspection Filter  
-02/06/2025, 15:28:53 --> PASSED: Found Vehicle Types in the Inspection Filter  
-02/06/2025, 15:28:53 --> PASSED: Found Inspectors in the Inspection Filter  
-02/06/2025, 15:28:53 --> PASSED: Found Has Defects? in the Inspection Filter  
-02/06/2025, 15:28:53 --> PASSED: Found Has DTCs? in the Inspection Filter  
-02/06/2025, 15:28:57 --> PASSED: Found Inspections in the Aggregates 
-02/06/2025, 15:28:57 --> PASSED: Found Inspectors in the Aggregates 
-02/06/2025, 15:28:57 --> PASSED: Found Vehicles in the Aggregates 
-02/06/2025, 15:28:57 --> PASSED: Found Safe in the Aggregates 
-02/06/2025, 15:28:57 --> PASSED: Found Unsafe in the Aggregates 
-02/06/2025, 15:28:57 --> PASSED: Found Has DTC in the Aggregates 
+02/09/2025, 11:29:50 --> PASSED: Found By Date Range in the mode menu 
+02/09/2025, 11:29:50 --> PASSED: Found Latest By Vehicle in the mode menu 
+02/09/2025, 11:29:50 --> PASSED: Found Latest By Inspector in the mode menu 
+02/09/2025, 11:29:55 --> PASSED: Found Selected organization in the Organization menu 
+02/09/2025, 11:29:55 --> PASSED: Found Custom selection in the Organization menu 
+02/09/2025, 11:29:57 --> PASSED: Found Custom range in the Organization menu 
+02/09/2025, 11:29:57 --> PASSED: Found Today in the Organization menu 
+02/09/2025, 11:29:57 --> PASSED: Found Yesterday in the Organization menu 
+02/09/2025, 11:29:57 --> PASSED: Found This week in the Organization menu 
+02/09/2025, 11:29:58 --> PASSED: Found Last week in the Organization menu 
+02/09/2025, 11:29:58 --> PASSED: Found Last 7 days in the Organization menu 
+02/09/2025, 11:29:58 --> PASSED: Found This month in the Organization menu 
+02/09/2025, 11:29:58 --> PASSED: Found Last month in the Organization menu 
+02/09/2025, 11:30:02 --> PASSED: Found Vehicles in the Inspection Filter  
+02/09/2025, 11:30:02 --> PASSED: Found Geozones in the Inspection Filter  
+02/09/2025, 11:30:02 --> PASSED: Found Vehicle Types in the Inspection Filter  
+02/09/2025, 11:30:02 --> PASSED: Found Inspectors in the Inspection Filter  
+02/09/2025, 11:30:02 --> PASSED: Found Has Defects? in the Inspection Filter  
+02/09/2025, 11:30:02 --> PASSED: Found Has DTCs? in the Inspection Filter  
+02/09/2025, 11:30:06 --> PASSED: Found Inspections in the Aggregates 
+02/09/2025, 11:30:06 --> PASSED: Found Inspectors in the Aggregates 
+02/09/2025, 11:30:06 --> PASSED: Found Vehicles in the Aggregates 
+02/09/2025, 11:30:06 --> PASSED: Found Safe in the Aggregates 
+02/09/2025, 11:30:06 --> PASSED: Found Unsafe in the Aggregates 
+02/09/2025, 11:30:06 --> PASSED: Found Has DTC in the Aggregates 
+02/09/2025, 11:30:09 --> PASSED: Column Open for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Open Detail for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column Inspection for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Inspector for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Organization for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Type for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Date for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Duration for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Inspection Map for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Location for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Geozone for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Has Notes for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column Vehicle for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  ID for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Type for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Odometer for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Engine Hours for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column Defects for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Minor for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Major for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column Repairs for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Minor for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Major for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Safe to Drive? for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column DTC for Inspections Summary Report Data Table 
+02/09/2025, 11:30:09 --> PASSED: Column  Code(s) for Inspections Summary Report Data Table 
+02/09/2025, 11:48:15 --> Unable to find SpeedViolationVariables.txt 

@@ -21,14 +21,11 @@ import time
 
 
 # Funcation to write / append to a file 
-def writeFile(text):
+def writeFile(text, File):
     x= datetime.datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
-    with open("Results.txt","a") as resultsFile:
+    with open(File,"a") as resultsFile:
         resultsFile.write(x+" --> " +text+" \n")    
         
-
-
-
 
 
 

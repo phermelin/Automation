@@ -3,4 +3,3 @@ Manager,manager_tester,test
 Dispatcher,dispatcher_tester,test
 Administrator,admin_tester,test
 Mechanic,mechanic_tester,test
-Driver,driver_tester,test

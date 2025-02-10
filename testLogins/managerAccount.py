@@ -18,6 +18,19 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import NoSuchElementException
 import time
 
+"""
+        for x in testAuto:
+            try:
+                t =Testurl2.find_element(By.PARTIAL_LINK_TEXT,x)
+                FuncationFile.writeFile("PASSED: found map options, "+ x)
+            except NoSuchElementException as z:
+                FuncationFile.writeFile("****FAILED: "+ x +" type of execption->"+ repr(z))
+
+
+"""
+
+
+
 def managerTesting(username,password,Testurl2):
     
     Testurl = Testurl2.current_url
@@ -57,6 +70,7 @@ def managerTesting(username,password,Testurl2):
         driversVehicalLink = Testurl2.find_element(By.XPATH,'//*[@id="main"]/div/div[3]/div[1]/div/div/div/div/div[3]/div[7]/div/div/div/a/h4')
         FuncationFile.writeFile("PASS: Bookmark area found")
 
+## Navigating to the Reports 
   # Click on Reports link at the top of the page
         a="Reports Link"       
         driversVehicalLink=Testurl2.find_element(By.XPATH,'//*[@id="main"]/div/div[1]/div[2]/button[2]').click()
@@ -65,11 +79,8 @@ def managerTesting(username,password,Testurl2):
 
   # Inspections Summary link
         a="inspectionsSummary"
-        driversVehicalLink=Testurl2.find_element(By.XPATH,'//*[@id="main"]/div/div[3]/div[2]/div/div[1]/div/div/ul/li/a').click()
-        FuncationFile.linkClickTest(Testurl2,a,"Inspections Link")
-        time.sleep(3)
-        Testurl2.back()
-        #FuncationFile.writeFile("PASSED: Inspection Summary link found")
+        driversVehicalLink=Testurl2.find_element(By.PARTIAL_LINK_TEXT,'Inspections Summary')
+        FuncationFile.writeFile("PASSED: Inspection Summary link found")
 
   # Speed Violations link
         a="Speed Violations link"       

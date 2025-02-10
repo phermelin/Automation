@@ -1,0 +1,30 @@
+02/10/2025, 12:39:26 --> PASSED: Found drop list item Selected organization 
+02/10/2025, 12:39:26 --> PASSED: Found drop list item All organizations 
+02/10/2025, 12:39:26 --> PASSED: Found drop list item Custom selection 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Today 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Custom range 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Yesterday 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item This week 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Last week 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Last 7 days 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Last 14 days 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item This month 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Last month 
+02/10/2025, 12:39:30 --> PASSED: Found drop list item Last 30 days 
+02/10/2025, 12:39:36 --> PASSED: Found drop list item Drivers 
+02/10/2025, 12:39:36 --> PASSED: Found drop list item Vehicles 
+02/10/2025, 12:39:36 --> PASSED: Found drop list item Geozone 
+02/10/2025, 12:39:37 --> PASSED: Column Heading found: Information  
+02/10/2025, 12:39:39 --> PASSED: Column Heading found: Start Date  
+02/10/2025, 12:39:40 --> PASSED: Column Heading found: Start Time  
+02/10/2025, 12:39:41 --> PASSED: Column Heading found: Duration  
+02/10/2025, 12:39:42 --> PASSED: Column Heading found: Driver Name  
+02/10/2025, 12:39:43 --> PASSED: Column Heading found: Vehicle  
+02/10/2025, 12:39:44 --> PASSED: Column Heading found: Speed  
+02/10/2025, 12:39:45 --> PASSED: Column Heading found: Average Speed  
+02/10/2025, 12:39:46 --> PASSED: Column Heading found: Maximum Speed  
+02/10/2025, 12:39:47 --> PASSED: Column Heading found: Speed Limit  
+02/10/2025, 12:39:48 --> PASSED: Column Heading found: Grace Period  
+02/10/2025, 12:39:49 --> PASSED: Column Heading found: Location  
+02/10/2025, 12:39:50 --> PASSED: Column Heading found: Speed Violation Map  
+02/10/2025, 12:39:51 --> PASSED: Column Heading found: Geozone  

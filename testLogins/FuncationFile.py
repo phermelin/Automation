@@ -27,6 +27,11 @@ def writeFile(text):
         resultsFile.write(x+" --> " +text+" \n")    
         
 
+
+
+
+
+
 def linkClickTest (Testurl,location, Test):
     
     try:

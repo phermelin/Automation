@@ -1,63 +1,25 @@
-01/31/2025, 13:57:17 --> Testing of Logins 
-01/31/2025, 13:57:17 --> Testing 
-01/31/2025, 13:57:22 --> ### Validating Guest Login information 
-01/31/2025, 13:57:22 --> PASS: URL correct  
-01/31/2025, 13:57:22 --> PASS: Map Button found 
-01/31/2025, 13:57:22 --> PASS: Drivers Link, Top left 
-01/31/2025, 13:57:22 --> PASS: Vehicles Link, Top left 
-01/31/2025, 13:57:22 --> PASS: Trailers Link, Top left 
-01/31/2025, 13:57:22 --> PASS: Bookmark found 
-01/31/2025, 13:57:28 --> ### Validating Manager Login information 
-01/31/2025, 13:57:28 --> CLICKED: Clicked on Fleet Tracking 
-01/31/2025, 13:57:31 --> PASS: Map Button found 
-01/31/2025, 13:57:31 --> PASS: Drivers Link, Top left 
-01/31/2025, 13:57:31 --> PASS: Vehicles Link, Top left 
-01/31/2025, 13:57:31 --> PASS: Trailers Link, Top left 
-01/31/2025, 13:57:31 --> PASS: Bookmark area found 
-01/31/2025, 13:57:31 --> CLICKED: Reports 
-01/31/2025, 13:57:37 --> PASSED:  Inspections Link 
-01/31/2025, 13:57:44 --> PASSED: Speed Violations link found 
-01/31/2025, 13:57:47 --> PASSED: Cycle Summary link found 
-01/31/2025, 13:57:50 --> PASSED: Trip Summary link found 
-01/31/2025, 13:57:53 --> PASSED: Hours of Service Summary link found 
-01/31/2025, 13:57:56 --> PASSED: Unidentified Driving Summary link found 
-01/31/2025, 13:57:59 --> PASSED: Exception Summary link found 
-01/31/2025, 13:58:03 --> PASSED: Geozone Summary link found 
-01/31/2025, 13:58:06 --> PASSED: Performance Summary link found 
-01/31/2025, 13:58:09 --> PASSED: Shift Summary link found 
-01/31/2025, 13:58:12 --> PASSED: Fuel Tax Summary link found 
-01/31/2025, 13:58:15 --> PASSED: Consuption Summary link found 
-01/31/2025, 13:58:18 --> PASSED: Fueling Summary link found 
-01/31/2025, 13:58:22 --> PASSED: Schedule link found 
-01/31/2025, 13:58:27 --> ### Validating Dispatcher Login information 
-01/31/2025, 13:58:27 --> CLICKED: Clicked on Fleet Tracking 
-01/31/2025, 13:58:30 --> PASS: Map Button found 
-01/31/2025, 13:58:30 --> PASS: Drivers Link, Top left 
-01/31/2025, 13:58:30 --> PASS: Vehicles Link, Top left 
-01/31/2025, 13:58:30 --> PASS: Trailers Link, Top left 
-01/31/2025, 13:58:30 --> PASS: Bookmark found 
-01/31/2025, 13:58:34 --> PASS: Able to bring up the info panel for a driver 
-01/31/2025, 13:58:34 --> CLICKED: Reports 
-01/31/2025, 13:58:37 --> PASSED: Inspection Summary link found 
-01/31/2025, 13:58:37 --> PASSED: Hours of Service Summary link found 
-01/31/2025, 13:58:37 --> PASSED: Unidentified Driving Summary link found 
-01/31/2025, 13:58:37 --> PASSED: Exception Summary link found 
-01/31/2025, 13:58:37 --> PASSED: Shift Summary link found 
-01/31/2025, 13:58:37 --> PASSED: Schedule link found 
-01/31/2025, 13:58:43 --> ### Validating Administration Login information 
-01/31/2025, 13:58:43 --> PASS: Geozone Location link 
-01/31/2025, 13:58:43 --> PASS: Users link 
-01/31/2025, 13:58:43 --> PASS: Vehciles link 
-01/31/2025, 13:58:43 --> PASS: Cameras link 
-01/31/2025, 13:58:43 --> PASS: Tablets link 
-01/31/2025, 13:58:43 --> PASS: Notifications link 
-01/31/2025, 13:58:48 --> ### Validating Mechanic Login information 
-01/31/2025, 13:58:49 --> CLICKED: Clicked on Fleet Tracking 
-01/31/2025, 13:58:52 --> PASSED: url https://master.nav2qa.ca/#/fleetTracking 
-01/31/2025, 13:58:52 --> CLICKED: Clicked on Reports Tracking 
-01/31/2025, 13:58:55 --> PASSED: url: https://master.nav2qa.ca/#/reports 
-01/31/2025, 13:58:55 --> PASSED: Inspections Summary link 
-01/31/2025, 13:58:55 --> ****FAILED: Schedule Link InvalidSelectorException() 
-01/31/2025, 13:59:00 --> ### Validating Drivers Login information 
-01/31/2025, 13:59:04 --> ****FAILED: Clicking on link caused error :myInspectionsAttributeError("'str' object has no attribute 'current_url'") 
-01/31/2025, 13:59:04 --> PASSED: My Inspections Summary 
+02/07/2025, 15:21:10 --> Testing of Logins 
+02/07/2025, 15:21:10 --> Testing 
+02/07/2025, 15:21:16 --> ### Validating Guest Login ### 
+02/07/2025, 15:21:16 --> PASS: URL correct  
+02/07/2025, 15:21:16 --> ****FAILED: NoSuchElementException() 
+02/07/2025, 15:21:22 --> ### Validating Manager Login information 
+02/07/2025, 15:21:22 --> CLICKED: Clicked on Fleet Tracking 
+02/07/2025, 15:21:25 --> ****FAILED: Map options button NoSuchElementException() 
+02/07/2025, 15:21:31 --> ### Validating Dispatcher Login information 
+02/07/2025, 15:21:31 --> CLICKED: Clicked on Fleet Tracking 
+02/07/2025, 15:21:34 --> *** FAILED: Map Option button NoSuchElementException() 
+02/07/2025, 15:21:40 --> ### Validating Administration Login information 
+02/07/2025, 15:21:40 --> PASS: Geozone Location link 
+02/07/2025, 15:21:40 --> PASS: Users link 
+02/07/2025, 15:21:40 --> PASS: Vehciles link 
+02/07/2025, 15:21:40 --> PASS: Cameras link 
+02/07/2025, 15:21:40 --> PASS: Tablets link 
+02/07/2025, 15:21:40 --> PASS: Notifications link 
+02/07/2025, 15:21:46 --> ### Validating Mechanic Login information 
+02/07/2025, 15:21:46 --> CLICKED: Clicked on Fleet Tracking 
+02/07/2025, 15:21:49 --> PASSED: url https://master.nav2qa.ca/#/fleetTracking 
+02/07/2025, 15:21:50 --> CLICKED: Clicked on Reports Tracking 
+02/07/2025, 15:21:53 --> PASSED: url: https://master.nav2qa.ca/#/reports 
+02/07/2025, 15:21:53 --> PASSED: Inspections Summary link 
+02/07/2025, 15:21:53 --> ****FAILED: Schedule Link InvalidSelectorException() 
